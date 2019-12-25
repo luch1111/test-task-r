@@ -1,0 +1,2 @@
+header,recipient,attachmentRaw
+First run,recep1@spam.machi.ne;recep2@spam.machi.ne,"[{""type"":""LOCALFILE"", ""data"":[""file1.txt""]}]"
